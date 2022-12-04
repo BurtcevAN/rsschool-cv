@@ -59,7 +59,8 @@ An example of my web development in accordance with a designer layout: [GitHub](
 
 ## **Code example:**
 
-```const body = document.querySelector('body');
+```
+const body = document.querySelector('body');
 const menuBurger = document.querySelector('.menu__burger');
 if (menuBurger) {
    const menuNav = document.querySelector('.menu');
@@ -74,6 +75,9 @@ if (menuBurger) {
    }
 }
 ```
+
+
+
 ***
 
 ## **Education**
