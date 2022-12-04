@@ -59,21 +59,21 @@ An example of my web development in accordance with a designer layout: [GitHub](
 
 ## **Code example:**
 
-```
-const body = document.querySelector('body');
-const menuBurger = document.querySelector('.menu__burger');
-if (menuBurger) {
-   const menuNav = document.querySelector('.menu');
-   menuBurger.addEventListener('click', function (e) {
-      body.classList.toggle('toggled');
-   });
-
-   if (menuNav) {
-      menuNav.addEventListener('click', function (e) {
-         body.classList.remove('toggled');
-      });
-   }
-}
+```javascript
+    const body = document.querySelector('body');
+    const menuBurger = document.querySelector('.menu__burger');
+    if (menuBurger) {
+       const menuNav = document.querySelector('.menu');
+       menuBurger.addEventListener('click', function (e) {
+          body.classList.toggle('toggled');
+       });
+    
+       if (menuNav) {
+          menuNav.addEventListener('click', function (e) {
+             body.classList.remove('toggled');
+          });
+       }
+    }
 ```
 
 
