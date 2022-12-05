@@ -44,7 +44,7 @@ I started looking into the IT area in June. And for this moment I devote all my 
 ## **Skills and Proficiency:**
 
 * HTML,
-* CSS, БЭМ, Grid, Flexbox,
+* CSS, BEM, Grid, Flexbox,
 * Git (GitHub),
 * Figma (for web development),
 * VS-code,
