@@ -149,23 +149,23 @@ a.contact__link {
 }
 
 .contact__logo_phone{
-   background-image: url('/img/phone.svg');
+   background-image: url('../img/phone.svg');
 }
 
 .contact__logo_in{
-   background-image: url('/img/in.svg');
+   background-image: url('../img/in.svg');
 }
 
 .contact__logo_mail{
-   background-image: url('/img/email.svg');
+   background-image: url('../img/email.svg');
 }
 
 .contact__logo_map{
-   background-image: url('/img/map.svg');
+   background-image: url('../img/map.svg');
 }
 
 .contact__logo_discord{
-   background-image: url('/img/discord.svg'); 
+   background-image: url('../img/discord.svg'); 
 }
 
 .hmm__item{
@@ -234,7 +234,7 @@ a.contact__link {
 .content-skill_level{
    width: 20px;
    height: 20px;
-   background-image: url(/img/Star.svg);
+   background-image: url(../img/Star.svg);
    background-repeat: no-repeat;
    list-style-type: none;
    transition: all .1s linear;
@@ -243,7 +243,7 @@ a.contact__link {
 .content-skill_level_err{
    width: 20px;
    height: 20px;
-   background-image: url(/img/Star\ err.svg);
+   background-image: url(../img/Star\ err.svg);
    background-repeat: no-repeat;
    list-style-type: none;
 }
@@ -265,7 +265,7 @@ a.contact__link {
 }
 
 .link_logo{
-   background-image: url(/img/github.svg);
+   background-image: url(../img/github.svg);
    width: 20px;
    height: 20px;
    background-repeat: no-repeat;
