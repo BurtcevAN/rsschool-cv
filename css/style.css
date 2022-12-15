@@ -346,9 +346,14 @@ a.footer__link{
 }
 
 @media (max-width: 767px){
-   .container{
-      max-width: 760px;
+  body{
+      min-width: 760px;
    }
+
+   .container{
+      max-width: 750px;
+   }
+
    .skills_level-list{
       align-items:center;
       gap:10px
